@@ -1,0 +1,65 @@
+{
+	"id": 4353,
+	"name": "Singapore River",
+	"description": "The 3.2km Singapore River is found in the country's south, flowing into Marina Reservoir. This artwork faced attacks by some r/phish members for entering their territory.",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Singapore_River",
+			"https://www.visitsingapore.com/see-do-singapore/places-to-see/singapore-river/"
+		],
+		"subreddit": [
+			"singapore",
+			"placeSG"
+		]
+	},
+	"path": {
+		"239-256": [
+			[
+				325,
+				-14
+			],
+			[
+				332,
+				-14
+			],
+			[
+				332,
+				-12
+			],
+			[
+				331,
+				-12
+			],
+			[
+				331,
+				-9
+			],
+			[
+				327,
+				-9
+			],
+			[
+				327,
+				-10
+			],
+			[
+				326,
+				-10
+			],
+			[
+				326,
+				-11
+			],
+			[
+				325,
+				-11
+			]
+		]
+	},
+	"center": {
+		"239-256": [
+			328,
+			-12
+		]
+	}
+}
